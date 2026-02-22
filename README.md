@@ -141,17 +141,13 @@ razor-blade-monte-carlo/
 4. Williamson, O. (1985). *The Economic Institutions of Capitalism*. Free Press.
 5. Morwitz, V., Greenleaf, E. & Johnson, E. (1998). "Divide and Prosper: Consumers' Reactions to Partitioned Prices." *Journal of Marketing Research*, 35(4).
 
-## 📝 Companion Article
-
-This repository accompanies an article published on [Towards Data Science](https://towardsdatascience.com/). The article provides a narrative walkthrough of the methodology, results, and implications.
-
 ## 👤 Author
 
 **Fabio Oliveira**  
-Electronic & Computer Engineer (UFRJ — 10.0/10.0 thesis) | Strategy & Operations (ex-QuintoAndar, ex-OLX Brasil) | Harvard Business School CORe
+Electronic & Computer Engineer (UFRJ — 10.0/10.0 thesis) | Strategy & Operations Specialist | DS & Growth |(ex-QuintoAndar, ex-OLX Brasil) | Harvard Business School CORe
 
-- [LinkedIn](https://www.linkedin.com/in/fabionoliveirastr/)
-- [Towards Data Science](https://towardsdatascience.com/)
+- [LinkedIn](https://www.linkedin.com/in/fabio-noliveira/)
+- [GitHub](https://github.com/fabionoliveirastr)
 
 ## 📄 License
 
